@@ -1,0 +1,15 @@
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\bin\Debug\net6.0\IntroducaoCSharp.exe
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\bin\Debug\net6.0\IntroducaoCSharp.deps.json
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\bin\Debug\net6.0\IntroducaoCSharp.runtimeconfig.json
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\bin\Debug\net6.0\IntroducaoCSharp.dll
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\bin\Debug\net6.0\IntroducaoCSharp.pdb
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\obj\Debug\net6.0\IntroducaoCSharp.csproj.AssemblyReference.cache
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\obj\Debug\net6.0\IntroducaoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\obj\Debug\net6.0\IntroducaoCSharp.AssemblyInfoInputs.cache
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\obj\Debug\net6.0\IntroducaoCSharp.AssemblyInfo.cs
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\obj\Debug\net6.0\IntroducaoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\obj\Debug\net6.0\IntroducaoCSharp.dll
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\obj\Debug\net6.0\refint\IntroducaoCSharp.dll
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\obj\Debug\net6.0\IntroducaoCSharp.pdb
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\obj\Debug\net6.0\IntroducaoCSharp.genruntimeconfig.cache
+C:\Users\zumpa\Curso\IntroducaoCSharp\IntroducaoCSharp\obj\Debug\net6.0\ref\IntroducaoCSharp.dll
