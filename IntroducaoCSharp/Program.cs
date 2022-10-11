@@ -14,6 +14,8 @@ namespace IntroducaoCSharp
             int codigo = 5290;
             char genero = 'M';
 
+
+
             double preco1 = 2100.0;
             double preco2 = 650.50;
             double medida = 53.234567;
